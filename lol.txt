@@ -9,8 +9,10 @@ Ethernet adapter Ethernet0:
    IPv4 Address. . . . . . . . . . . : 192.168.0.246
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 192.168.0.1
+qwe
 
 Tunnel adapter isatap.{19CFCD9F-0197-4C9E-9285-50A38E8B3C02}:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+qwe
