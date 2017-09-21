@@ -10,6 +10,7 @@ Ethernet adapter Ethernet0:
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 192.168.0.1
 xxx
+lala
 
 Tunnel adapter isatap.{19CFCD9F-0197-4C9E-9285-50A38E8B3C02}:
 
